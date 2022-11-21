@@ -19,7 +19,8 @@ sudo bash redis.sh
 
 #### Options
 
-- -p | --password  Set password for redis server.
+- -p | --password Set password for redis server.
+- -r | --isRemote Is remote access server? (true/false).
 
 ## Attentions
 
